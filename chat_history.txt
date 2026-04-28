@@ -1,0 +1,7 @@
+customer :hello
+agent:hi there
+
+customer :ticket no 1234567890, I wnat to know the status of my ticket
+agent :ticket no 1234567890 is in progress
+
+

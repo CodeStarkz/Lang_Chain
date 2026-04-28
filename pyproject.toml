@@ -1,0 +1,25 @@
+[project]
+name = "lang-chain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+
+dependencies = [
+    "langchain>=1.2.15",
+    "pandas>=3.0.2",
+    "scikit-learn>=1.8.0",
+    "langchain_huggingface",
+    "transformers",
+    "huggingface-hub",
+    "langchain-google-genai",
+    "google-generativeai",
+    "langchain-anthropic",
+    "langchain-openai",
+    "openai",
+    "faah>=2.1.1",
+    "torch<2.3.0",
+    "sentence-transformers>=5.4.1",
+    "streamlit",
+    "pydantic>=2.13.2",
+]
